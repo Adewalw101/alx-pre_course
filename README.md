@@ -1,1 +1,2 @@
-My first readme
+This is getting interesting
+lets keep it cool
